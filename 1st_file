@@ -1,1 +1,4 @@
 cout<<"My name is "<< "Husnain Faisal"<< "And My Roll number is "<<"23-SET-042"<<endl;
+
+cout << "The Addition of these two numbers are " << a+b<<endl;
+
